@@ -13,6 +13,8 @@
 
 - [hello-world](./javascript/hello-world)
 - [two-fer](./javascript/two-fer)
+- [resistor-color](./javascript/resistor-color)
+- [matrix](./javascript/matrix)
 
 ---
 
