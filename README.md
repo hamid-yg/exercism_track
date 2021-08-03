@@ -11,9 +11,8 @@
 
 ## EXERCISES
 
-- [hello-world](./hello-world)
-- [two-fer](./two-fer)
-
+- [hello-world](./javascript/hello-world)
+- [two-fer](./javascript/two-fer)
 
 ---
 
