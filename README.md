@@ -1,4 +1,4 @@
-# EXERCISM JAVASCRIPT
+# EXERCISM JAVASCRIPT / TYPESCRIPT
 
 > Learning through Exercism is quite different to other programming websites, with a focus on individual practice and mentor-based learning. Here's how it works.
 
@@ -11,10 +11,15 @@
 
 ## EXERCISES
 
+### JAVASCRIPT
+
 - [hello-world](./javascript/hello-world)
 - [two-fer](./javascript/two-fer)
 - [resistor-color](./javascript/resistor-color)
 - [matrix](./javascript/matrix)
+
+### TYPESCRIPT
+
 
 ---
 
