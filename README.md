@@ -20,6 +20,7 @@
 
 ### TYPESCRIPT
 
+- [hello-world](./typescript/hello-world)
 
 ---
 
